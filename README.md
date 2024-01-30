@@ -1,0 +1,2 @@
+可以一键下载安装java8 java17 java20
+仅支持Windows平台
