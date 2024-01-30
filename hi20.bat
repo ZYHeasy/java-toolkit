@@ -1,0 +1,3 @@
+curl -O "https://112-101-10-82.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-321/a8ee1851/1630733-0/a8ee18512e61484a92e7d47d24e8d141/c-m25?v=5&t=1706679367&s=1706679367852e631827a32f75e28f0f973ecde7c1&r=HX7KDF&bzc=1&bzs=1820987005&filename=jdk-21_windows-x64_bin.exe&x-mf-biz-cid=820b230f-ac4c-4be7-942b-6c68a70b978e-a0d664&auto_redirect=0&ndcp=1&cache_type=1&xmfcid=2242ebc2-7ac0-441b-9e2f-7bf94ab3634e-0-9eed82220"
+rename c-m25 java21.exe
+start java21.exe

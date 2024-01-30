@@ -1,0 +1,3 @@
+curl -O "https://112-101-10-71.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-417/546ceef6/1630733-0/546ceef6cc9d90bfdd3c9a9305faa1a1/c-m25?v=5&t=1706679467&s=1706679467dc8cebe41dcd02a5460e2eff43772434&r=GZ8BHN&bzc=1&bzs=1820987005&filename=jdk-17.0.10_windows-x64_bin.exe&x-mf-biz-cid=ba98e2d6-e409-4d4e-91bc-6d59e99e4e00-a0d664&auto_redirect=0&ndcp=1&cache_type=1&xmfcid=129f1ccc-f8e9-4e6c-8b6d-fd8c6807a871-1-50111d3b1"
+rename c-m25 java17.exe
+start java17.exe
