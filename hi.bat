@@ -1,2 +1,3 @@
-curl -O "https://i-330.wwentua.com:446/01301300160803683bb/2024/01/30/54255bffacd54e15554a640a0768d61f.exe?st=lVFDpCPqUDu23A6oHTCuRw&e=1706594155&b=BT1bKQJnAytYNV98VjIOOlYyAXAHcQdoAz4LYgFpUyZRcFxxAHhUZ1Q1UChWYwN_aAzM_c&fi=160803683&pid=121-237-84-137&up=2&mp=0&co=0"
-start 54255bffacd54e15554a640a0768d61f.exe
+curl -O "https://223-113-14-17.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-306/af1d2409/1818101116-0/af1d24091758f1e02d51dc5f5297c932/c-m25?v=5&t=1706693839&s=1706693839ade7462fbc870a3dd834e970d3e02e79&r=1RQQG0&bzc=1&bzs=1820987005&filename=jre-8u401-windows-x64.exe&x-mf-biz-cid=6ed984c1-f2f2-4583-9055-aac67b041d08-47df1e&auto_redirect=0&ndcp=1&cache_type=1&xmfcid=c71aa59f-2ec8-42cd-8532-2843dd558e6a-0-50111d3b1"
+rename c-m25 java8.exe
+start java8.exe
